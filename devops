@@ -1,0 +1,11 @@
+cd batch87
+touch file1
+ls
+git status
+git add file1
+git commit -m"sample commit" file 1
+git status
+git log
+git show 
+or git show commit 
+git push
